@@ -6,6 +6,9 @@ Este projeto visa prever os custos médicos com base em características como id
 
 O dataset utilizado é `insurance.csv`, que contém os seguintes campos:
 
+Dataset obtido em:
+https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download
+
 - **age**: Idade do paciente
 - **sex**: Gênero do paciente
 - **bmi**: Índice de Massa Corporal
